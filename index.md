@@ -6,6 +6,10 @@ This is a new webpage. Updates pending.
 
 ˙sǝʇɐpdn ɟo sʇol
 
+![These be mountains](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.4wrihZIq4izw0bnPZ6n3CQHaEK%26pid%3DApi&f=1&ipt=ca56cae06fd0e29b8b9922ec4573ccc81c6dcbad16a7c72ce4eea873ed074b4a&ipo=images)
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.4wrihZIq4izw0bnPZ6n3CQHaEK%26pid%3DApi&f=1&ipt=ca56cae06fd0e29b8b9922ec4573ccc81c6dcbad16a7c72ce4eea873ed074b4a&ipo=images" alt="Description of image" style="size=:1000px;">
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
