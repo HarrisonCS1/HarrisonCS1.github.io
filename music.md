@@ -8,7 +8,7 @@ layout: default
 
 Inspired by classic trance and house styles, I perform live hardware-based electronic dance music, utilizing synthesizers, sequencers, and drum machines on the fly. Much of my EDM performance is heavily improvised and while I may utilize looping and pattern sequencing, everything is original (or in the case of covers, crafted by hand akin to a cover band recreating an original song.) 
 
-I am not a DJ, and this is not DJing. 
+I am not a DJ, and what I do is not DJing. If you'd like to learn more, please reach out.
 
 <h1 style="color:#900000; font-size:16px;">Scarlet Fever Keyboardist</h1>
 
