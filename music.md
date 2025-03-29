@@ -10,6 +10,8 @@ Inspired by classic trance and house styles, I perform live hardware-based elect
 
 I am not a DJ, and what I do is not DJing. If you'd like to learn more, please reach out.
 
+<img src="https://github.com/HarrisonCS1/HarrisonCS1.github.io/tree/master/assets/img/Talent_Show_1.jpeg" alt="Artist performing a live EDM set" 
+
 <h1 style="color:#900000; font-size:16px;">Scarlet Fever Keyboardist</h1>
 
 I'm keyboardist for Charlottesville-based band Scarlet Fever. We play covers of popular songs from the past 50 years for events ranging from house shows and fraternity parites to local bars and university events. If you're interested in booking us or would like to learn more, please reach out and check out the link below.
