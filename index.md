@@ -2,7 +2,12 @@
 layout: default
 ---
 
-This is a new webpage. Updates pending.
+## Welcome
+
+Welcome to my website. It is currently under construction.
+
+Construction can be messy. It can involve 2x4s, half-working tape measures, 20v dewalt batteries everywhere. 
+Cleanup is important, but sometimes the mess has to be made. So it is with my website.
 
 ˙sǝʇɐpdn ɟo sʇol
 
