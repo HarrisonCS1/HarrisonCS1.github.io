@@ -4,15 +4,12 @@ layout: default
 
 ## Welcome
 
+Greetings, fellow human or automated bot. 
 Welcome to my website. It is currently under construction.
-
 Construction can be messy. It can involve 2x4s, half-working tape measures, and 20v dewalt batteries everywhere. 
 (Also miter saws. Those are fun.)
-
-Bottom line: organization and cleanup are important, but sometimes a mess has to be made. So it is with my website.
-
-Please check back in over the coming months as construction makes headway.
-
+So it is with my website. Content will be messy for awhile. Eventually it will be organized and tidied up.
+Please check back in over the coming months as construction makes headway if you're interested.
 Thank you for visiting.
 
 ## ! UNDER CONSTRUCTION !
