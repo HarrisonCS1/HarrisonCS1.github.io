@@ -4,7 +4,9 @@ layout: default
 
 ## Music
 
-<p style="color:red;">This is red text.</p>
+<h1 style="color:#FF7A00; font-size:16px;">Live EDM Performer</h1>
+
+Inspired by classic trance and house styles, I perform live hardware-based electronic dance music, utilizing synthesizers, sequencers, and drum machines on the fly. Much of my EDM performance is heavily improvised and while I may utilize looping and pattern sequencing, everything is original (or in the case of covers, recreated by hand in the manner that a cover band would recreate an original song.) I am not a DJ. 
 
 <h1 style="color:#900000; font-size:16px;">Scarlet Fever Keyboardist</h1>
 
