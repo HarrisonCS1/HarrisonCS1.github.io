@@ -6,10 +6,14 @@ layout: default
 
 Welcome to my website. It is currently under construction.
 
-Construction can be messy. It can involve 2x4s, half-working tape measures, 20v dewalt batteries everywhere. 
-Cleanup is important, but sometimes the mess has to be made. So it is with my website.
+Construction can be messy. It can involve 2x4s, half-working tape measures, and 20v dewalt batteries everywhere. 
+(Also miter saws. Those are fun.)
 
-˙sǝʇɐpdn ɟo sʇol
+Bottom line: organization and cleanup are important, but sometimes a mess has to be made. So it is with my website.
+
+Please check back in over the coming months as construction makes headway.
+
+Thank you for visiting.
 
 ![These be mountains](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.4wrihZIq4izw0bnPZ6n3CQHaEK%26pid%3DApi&f=1&ipt=ca56cae06fd0e29b8b9922ec4573ccc81c6dcbad16a7c72ce4eea873ed074b4a&ipo=images)
 
