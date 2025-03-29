@@ -14,8 +14,9 @@ I am not a DJ, and what I do is not DJing. Three big differences:
 3.  Aside from some loops and patterns (which are sequenced, not recorded), everything I play is created live. 
 
 There aren't many people who do this kind of work. If you're interested and would like to learn more, please reach out.
-![Live Performance](https://github.com/HarrisonCS1/HarrisonCS1.github.io/blob/master/assets/img/Talent_Show_1.png)
-<img src="https://github.com/HarrisonCS1/HarrisonCS1.github.io/blob/master/assets/img/Talent_Show_1.png" width="600">
+![Live Performance](https://github.com/HarrisonCS1/HarrisonCS1.github.io/blob/master/assets/img/talentshowone.png)
+![Live Performance](https://github.com/HarrisonCS1/HarrisonCS1.github.io/assets/img/talentshowone.png)
+<img src="https://github.com/HarrisonCS1/HarrisonCS1.github.io/blob/master/assets/img/talentshowone.png" width="600">
 <h1 style="color:#900000; font-size:16px;">Scarlet Fever Keyboardist</h1>
 
 I'm keyboardist for Charlottesville-based band Scarlet Fever. We play covers of popular songs from the past 50 years for events ranging from house shows and fraternity parites to local bars and university events. If you're interested in booking us or would like to learn more, please reach out and check out the link below.
