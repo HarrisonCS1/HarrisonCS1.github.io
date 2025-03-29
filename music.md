@@ -8,7 +8,12 @@ layout: default
 
 Inspired by classic trance and house styles, I perform live hardware-based electronic dance music, utilizing synthesizers, sequencers, and drum machines on the fly. Much of my EDM performance is heavily improvised and while I may utilize looping and pattern sequencing, everything is original (or in the case of covers, crafted by hand akin to a cover band recreating an original song.) 
 
-I am not a DJ, and what I do is not DJing. If you'd like to learn more, please reach out.
+I am not a DJ, and what I do is not DJing. Three big differences:
+1.  I don't use a laptop for live performance. I'm 100% hardware based.
+2.  I play primarily original work; most DJs play the work of others.
+3.  Aside from some loops and patterns (which are sequenced, not recorded), everything I play is created live. 
+
+There aren't many people who do this kind of work. If you're interested and would like to learn more, please reach out.
 
 <img src="https://github.com/HarrisonCS1/HarrisonCS1.github.io/blob/master/assets/img/Talent_Show_1.jpeg" style="width:500px;">
 
