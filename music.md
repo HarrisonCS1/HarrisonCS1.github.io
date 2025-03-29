@@ -15,7 +15,7 @@ I am not a DJ, and what I do is not DJing. Three big differences:
 
 There aren't many people who do this kind of work. If you're interested and would like to learn more, please reach out.
 
-<img src="https://github.com/HarrisonCS1/HarrisonCS1.github.io/blob/master/assets/img/Talent_Show_1.png">
+<img src="https://github.com/HarrisonCS1/HarrisonCS1.github.io/blob/master/assets/img/Talent_Show_1.png" width="600">
 
 <h1 style="color:#900000; font-size:16px;">Scarlet Fever Keyboardist</h1>
 
