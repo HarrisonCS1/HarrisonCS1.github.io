@@ -10,7 +10,7 @@ Inspired by classic trance and house styles, I perform live hardware-based elect
 
 I am not a DJ, and what I do is not DJing. If you'd like to learn more, please reach out.
 
-<img src="https://raw.githubusercontent.com/HarrisonCS1/HarrisonCS1.github.io/main/assets/img/Talent_Show_1.jpeg" alt="Artist performing a live EDM set" style="width:500px;">
+<img src="https://raw.githubusercontent.com/HarrisonCS1/HarrisonCS1.github.io/assets/img/Talent_Show_1.jpeg" style="width:500px;">
 
 <h1 style="color:#900000; font-size:16px;">Scarlet Fever Keyboardist</h1>
 
