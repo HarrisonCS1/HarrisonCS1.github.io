@@ -15,12 +15,6 @@ I am not a DJ, and what I do is not DJing. Three big differences:
 
 There aren't many people who do this kind of work. If you're interested and would like to learn more, please reach out.
 
-2
-
-![Live Performance](/assets/img/talentshowone.png)
-
-5
-
 <img src="..\assets/img/talentshowone.png" alt="Live Performance" width="600">
 
 <h1 style="color:#900000; font-size:16px;">Scarlet Fever Keyboardist</h1>
@@ -32,5 +26,7 @@ As our band's keyboardist, I believe that it's the role of the keyboard to suppo
 A performance video is hopefully coming soon.
 
 In the meantime, check out the band <a href="https://www.instagram.com/scarletfevercville/">here</a>.
+
+![Live Performance](/assets/img/scarletfeverone.png)
 
 [back](./)
