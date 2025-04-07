@@ -13,7 +13,7 @@ I am not a DJ, and what I do is not DJing. Three big differences:
 2.  I play primarily original work; most DJs play the work of others.
 3.  Aside from some loops and patterns (which are sequenced, not recorded), everything I play is created live. 
 
-There aren't many people who do this kind of work. If you're interested and would like to learn more, please reach out.
+There aren't many people who do this kind of work. If you're one of them, or if you're interested and would like to learn more, please reach out!
 
 <img src="..\assets/img/talentshowone.png" alt="Live Performance" width="600">
 
