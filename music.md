@@ -14,10 +14,16 @@ I am not a DJ, and what I do is not DJing. Three big differences:
 3.  Aside from some loops and patterns (which are sequenced, not recorded), everything I play is created live. 
 
 There aren't many people who do this kind of work. If you're interested and would like to learn more, please reach out.
+
+1
 ![Live Performance](https://github.com/HarrisonCS1/HarrisonCS1.github.io/blob/master/assets/img/talentshowone.png)
+2
 ![Live Performance](https://github.com/HarrisonCS1/HarrisonCS1.github.io/blob/master/assets/images/talentshowone.png)
+3
 ![Live Performance](https://github.com/HarrisonCS1/HarrisonCS1.github.io/docs/assets/img/talentshowone.png)
+4
 <img src="https://github.com/HarrisonCS1/HarrisonCS1.github.io/blob/master/assets/img/talentshowone.png" width="600">
+5
 <img src="{{site.talentshowone | relative_url}}" alt="Musical Performance" />
 
 <h1 style="color:#900000; font-size:16px;">Scarlet Fever Keyboardist</h1>
