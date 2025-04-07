@@ -4,11 +4,21 @@ layout: default
 
 ## Recommended Reading
 
-<h1 style="color:#FF7A00; font-size:16px;">Books I've found valuable and think you might, too.</h1>
+<h1 style="color:#FF7A00; font-size:16px;">Books I've found valuable or interesting (and think you might, too.)</h1>
 
 *Antifragile* by Nassim Nicholas Taleb
 
+*Coddling of the American Mind* by Jonathan Haidt and Greg Lukianoff
 
+*Digital Minimalism* by Cal Newport
+
+*iGen* by Jean M. Twenge
+
+*Irresistible* by Adam Alter
+
+*Skin in the Game* by Nassim Nicholas Taleb
+
+*The End of the World is Just the Beginning* by Peter Zeihan
 
 <img src="..\assets/img/talentshowone.png" alt="Live Performance" width="600">
 
