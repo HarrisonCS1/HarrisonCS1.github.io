@@ -19,6 +19,7 @@ There aren't many people who do this kind of work. If you're interested and woul
 ![Live Performance](https://github.com/HarrisonCS1/HarrisonCS1.github.io/docs/assets/img/talentshowone.png)
 <img src="https://github.com/HarrisonCS1/HarrisonCS1.github.io/blob/master/assets/img/talentshowone.png" width="600">
 <h1 style="color:#900000; font-size:16px;">Scarlet Fever Keyboardist</h1>
+<img src="{{site.talentshowone | relative_url}}" alt="Musical Performance" />
 
 I'm keyboardist for Charlottesville-based band Scarlet Fever. We play covers of popular songs from the past 50 years for events ranging from house shows and fraternity parites to local bars and university events. If you're interested in booking us or would like to learn more, please reach out and check out the link below.
 
