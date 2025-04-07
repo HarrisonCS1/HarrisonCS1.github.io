@@ -18,7 +18,7 @@ There aren't many people who do this kind of work. If you're interested and woul
 1
 ![Live Performance](https://github.com/HarrisonCS1/HarrisonCS1.github.io/blob/master/assets/img/talentshowone.png)
 2
-![Live Performance](https://github.com/HarrisonCS1/HarrisonCS1.github.io/tree/master/assets/img/talentshowone.png)
+![Live Performance](/assets/img/talentshowone.png)
 3
 <img src="https://github.com/HarrisonCS1/HarrisonCS1.github.io/blob/master/assets/img/talentshowone.png" width="600">
 4
