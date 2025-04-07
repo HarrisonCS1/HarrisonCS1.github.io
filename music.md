@@ -18,13 +18,13 @@ There aren't many people who do this kind of work. If you're interested and woul
 1
 ![Live Performance](https://github.com/HarrisonCS1/HarrisonCS1.github.io/blob/master/assets/img/talentshowone.png)
 2
-![Live Performance](https://github.com/HarrisonCS1/HarrisonCS1.github.io/blob/master/assets/images/talentshowone.png)
+![Live Performance](https://github.com/HarrisonCS1/HarrisonCS1.github.io/tree/master/assets/img/talentshowone.png)
 3
-![Live Performance](https://github.com/HarrisonCS1/HarrisonCS1.github.io/docs/assets/img/talentshowone.png)
-4
 <img src="https://github.com/HarrisonCS1/HarrisonCS1.github.io/blob/master/assets/img/talentshowone.png" width="600">
-5
+4
 <img src="{{site.talentshowone | relative_url}}" alt="Musical Performance" />
+5
+<img src="..\assets/img/talentshowone.png" width="600">
 
 <h1 style="color:#900000; font-size:16px;">Scarlet Fever Keyboardist</h1>
 
