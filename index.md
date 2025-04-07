@@ -18,6 +18,12 @@ Please check back in over the coming months as construction makes headway if you
 
 Thank you for visiting.
 
+[MUSIC ->](./music.html).
+
+[READING ->](./reading.html).
+
+[RESUME, ETC. ->](./resume.html).
+
 ## ! UNDER CONSTRUCTION !
 
 ![These be mountains](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.4wrihZIq4izw0bnPZ6n3CQHaEK%26pid%3DApi&f=1&ipt=ca56cae06fd0e29b8b9922ec4573ccc81c6dcbad16a7c72ce4eea873ed074b4a&ipo=images)
@@ -27,8 +33,6 @@ Thank you for visiting.
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
-
-[Link to music page](./music.html).
 
 There should be whitespace between paragraphs.
 
