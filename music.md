@@ -15,21 +15,9 @@ I am not a DJ, and what I do is not DJing. Three big differences:
 
 There aren't many people who do this kind of work. If you're interested and would like to learn more, please reach out.
 
-1
-
-![Live Performance](https://github.com/HarrisonCS1/HarrisonCS1.github.io/blob/master/assets/img/talentshowone.png)
-
 2
 
 ![Live Performance](/assets/img/talentshowone.png)
-
-3
-
-<img src="https://github.com/HarrisonCS1/HarrisonCS1.github.io/blob/master/assets/img/talentshowone.png" width="600">
-
-4
-
-<img src="{{site.talentshowone | relative_url}}" alt="Musical Performance" />
 
 5
 
