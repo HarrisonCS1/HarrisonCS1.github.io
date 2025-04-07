@@ -4,7 +4,7 @@ layout: default
 
 ## Recommended Reading
 
-<h1 style="color:#00BABA; font-size:16px;">Books I've found valuable or interesting (and think you might, too.)</h1>
+<h1 style="color:#00BABA; font-size:16px;">Books I've found valuable or interesting<br>(and think you might, too.)</h1>
 
 *American Nations* by Colin Woodard
 
