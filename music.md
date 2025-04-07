@@ -21,7 +21,7 @@ There aren't many people who do this kind of work. If you're interested and woul
 
 5
 
-<img src="..\assets/img/talentshowone.png" width="600">
+<img src="..\assets/img/talentshowone.png" alt="Live Performance" width="600">
 
 <h1 style="color:#900000; font-size:16px;">Scarlet Fever Keyboardist</h1>
 
