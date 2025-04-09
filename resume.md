@@ -14,6 +14,7 @@ Coming soon.
 
 <h1 style="color:#009024; font-size:16px;">Work Experience</h1>
 
+<!-- Live Performance Image -->
 <img src="..\assets/img/talentshowone.png" alt="Live Performance" width="600">
 
 <h1 style="color:#DCC700; font-size:16px;">Skills and Certifications</h1>
