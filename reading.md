@@ -26,6 +26,7 @@ layout: default
 
 *The Shallows* by Nicholas Carr
 
-Have a reading suggestion? Send it my way!<br>*Non Scolae Sed Vitae Discimus*
+<p>Have a reading suggestion? Send it my way!</p>
+> *Non Scolae Sed Vitae Discimus*
 
 [back](./)
