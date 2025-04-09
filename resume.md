@@ -57,7 +57,7 @@ Coming soon.
 • Oversaw merchandise inventory and sales, donations, and other financial transactions<br>
 • Maintained and instructed volunteers in information confidentiality practices<br>
 • Worked on staff team of four providing leadership for over 700 volunteers servering 18 families<br>
-• Learn more about our projects <a href="..\assets/documents/asp_construction_manual_2022.pdf">here</a>.
+• Learn more about our projects <a href="..\assets/documents/asp_construction_manual_2022.pdf">here</a>
 </p>
 
 <h1 style="color:#DCC700; font-size:16px;">Skills and Certifications</h1>
