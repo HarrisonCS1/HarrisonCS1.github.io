@@ -9,10 +9,17 @@ Coming soon.
 <p>Resume PDF available <a href="..\assets/documents/resume_snedeker_4-25.pdf">here</a>.<br>For full contact information, please reach out directly with your name and organization and I'd be happy to send it your way.</p>
 
 <h1 style="color:#FF6B0B; font-size:16px;">Education</h1>
-<br>University of Virginia, College of Arts and Sciences
+University of Virginia, College of Arts and Sciences
 <br>• Major: B.A. Applied Statistics – Data Science Concentration
 <br>• Minor: Real Estate
 <br>• Catalyst Program (what's <a href="https://catalyst.as.virginia.edu">this?</a>)
+
+Regent's University London
+<br>• London First Study Abroad Program through the University of Virginia
+
+Virginia Community College System (concurrent enrollment)
+<br>• Virginia Highlands Community College
+<br>• Mountain Empire Community College
 
 <h1 style="color:#009024; font-size:16px;">Work Experience</h1>
 
