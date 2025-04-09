@@ -9,10 +9,10 @@ Coming soon.
 <p>Resume PDF available <a href="..\assets/documents/resume_snedeker_4-25.pdf">here</a>.<br>For full contact information, please reach out directly with your name and organization and I'd be happy to send it your way.</p>
 
 <h1 style="color:#FF6B0B; font-size:16px;">Education</h1>
-University of Virginia, College of Arts and Sciences
-*   Major: B.A. Applied Statistics – Data Science Concentration
-*   Minor: Real Estate
-*   Catalyst Program (what's <a href="https://catalyst.as.virginia.edu">this?</a>
+<br>University of Virginia, College of Arts and Sciences
+<br>• Major: B.A. Applied Statistics – Data Science Concentration
+<br>• Minor: Real Estate
+<br>• Catalyst Program (what's <a href="https://catalyst.as.virginia.edu">this?</a>)
 
 <h1 style="color:#009024; font-size:16px;">Work Experience</h1>
 
