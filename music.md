@@ -30,6 +30,6 @@ A performance video is hopefully coming soon.
 
 In the meantime, check out the band <a href="https://www.instagram.com/scarletfevercville/">here</a>.
 
-![Live Performance](/assets/img/scarletfeverone.png)
+![Live Performance](/assets/img/keyboardist_1.png)
 
 [back](./)
