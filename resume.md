@@ -45,6 +45,8 @@ Coming soon.
 • Assists in audio logistics including setup, takedown, and troubleshooting<br>
 • Check out the band <a href="https://www.instagram.com/scarletfevercville/">here</a>
 </p>
+<!-- Live Performance Image -->
+<img src="..\assets/img/scarletfeverone.png" alt="Live Performance" width="600">
 <p>
 <i>Finance Coordinator</i>, <b>Appalachia Service Project</b>, Dickenson County, VA<br>
 <i>2024</i><br>
@@ -55,10 +57,8 @@ Coming soon.
 • Oversaw merchandise inventory and sales, donations, and other financial transactions<br>
 • Maintained and instructed volunteers in information confidentiality practices<br>
 • Worked on staff team of four providing leadership for over 700 volunteers servering 18 families<br>
-Learn more about our projects <a href="..\assets/documents/asp_construction_manual_2022.pdf">here</a>.
+• Learn more about our projects <a href="..\assets/documents/asp_construction_manual_2022.pdf">here</a>.
 </p>
-<!-- Live Performance Image -->
-<img src="..\assets/img/scarletfeverone.png" alt="Live Performance" width="600">
 
 <h1 style="color:#DCC700; font-size:16px;">Skills and Certifications</h1>
 <p>
