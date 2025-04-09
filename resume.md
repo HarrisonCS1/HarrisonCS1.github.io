@@ -29,7 +29,6 @@ Coming soon.
 
 <h1 style="color:#009024; font-size:16px;">Work Experience</h1>
 <p>
-<br>
 <i>Reading Group Leader</i>, <b>The Blue Ridge Center</b>, Charlottesville, VA<br>
 • Designs and implements group schedule and syllabus including weekly readings and topics<br>
 • Works closely with Blue Ridge staff to coordinate reading group logistics<br>
