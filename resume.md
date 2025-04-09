@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+[back](./)
 
 ## Resume and Related Professional Artifacts
 
@@ -29,18 +30,32 @@ Coming soon.
 
 <h1 style="color:#009024; font-size:16px;">Work Experience</h1>
 <p>
-<i>Reading Group Leader</i>, <b>The Blue Ridge Center</b>, Charlottesville, VA, <i>2025 - Present</i><br>
+<i>Reading Group Leader</i>, <b>The Blue Ridge Center</b>, Charlottesville, VA<br>
+<i>2025 - Present</i><br>
 • Designs and implements group schedule and syllabus (<a href="..\assets/documents/antifragile_syllabus.pdf">show me</a>) 
   including weekly readings and topics<br>
 • Works closely with Blue Ridge staff to coordinate reading group logistics<br>
 • Fosters and moderates in-depth discussions surrounding weekly reading material
 </p>
 <p>
-<i>Keyboardist</i>, <b>Scarlet Fever</b>, Charlottesville, VA, <i>Current</i>2024 - Present<br>
+<i>Keyboardist</i>, <b>Scarlet Fever</b>, Charlottesville, VA<br>
+<i>2024 - Present</i><br>
 • Collaborates with and supports other musicians to maintain a shared musical repertoire<br>
 • Engages in regular live performances for audiences at a variety of venues<br>
 • Assists in audio logistics including setup, takedown, and troubleshooting<br>
-• Check out the band 
+• Check out the band <a href="https://www.instagram.com/scarletfevercville/">here</a>
+</p>
+<p>
+<i>Finance Coordinator</i>, <b>Appalachia Service Project</b>, Dickenson County, VA<br>
+<i>2024</i><br>
+• Planned, obtained permist for, and oversaw completion of residential construction projects<br>
+• Managed acquisition and transportation logistics of supplies and materials<br>
+• Wrote work orders and progress reports ensuring clear operational communication<br>
+• Tracked a $100K+ budget daily, maintained grand compliance, coordinated with accounting team<br>
+• Oversaw merchandise inventory and sales, donations, and other financial transactions<br>
+• Maintained and instructed volunteers in information confidentiality practices<br>
+• Worked on staff team of four providing leadership for over 700 volunteers servering 18 families<br>
+• Viewable impact coming soon
 </p>
 <!-- Live Performance Image -->
 <img src="..\assets/img/scarletfeverone.png" alt="Live Performance" width="600">
@@ -51,6 +66,5 @@ Coming soon.
 • Working familiarity with SharePoint, Word, Excel, and other Mircrosoft applications<br>
 • General familiarity with ArcGIS, Logic Pro, Python and R
 </p>
-
 
 [back](./)
