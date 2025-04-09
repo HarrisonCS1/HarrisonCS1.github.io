@@ -55,7 +55,7 @@ Coming soon.
 • Oversaw merchandise inventory and sales, donations, and other financial transactions<br>
 • Maintained and instructed volunteers in information confidentiality practices<br>
 • Worked on staff team of four providing leadership for over 700 volunteers servering 18 families<br>
-• Viewable impact coming soon
+Learn more about our projects <a href="..\assets/documents/asp_construction_manual_2022.pdf">here</a>.
 </p>
 <!-- Live Performance Image -->
 <img src="..\assets/img/scarletfeverone.png" alt="Live Performance" width="600">
