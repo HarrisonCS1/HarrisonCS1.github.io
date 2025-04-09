@@ -18,13 +18,13 @@ Please check back in over the coming months as construction makes headway if you
 
 Thank you for visiting.
 
-[Resume, etc. ->](./resume.html).
+[Resume, etc. ->](./resume.html)
 
-[Music ->](./music.html).
+[Music ->](./music.html)
 
-[Miscellaneous ->](./miscellaneous.html).
+[Miscellaneous ->](./miscellaneous.html)
 
-[Suggested Reading ->](./reading.html).
+[Suggested Reading ->](./reading.html)
 
 ## ! UNDER CONSTRUCTION !
 
