@@ -22,11 +22,17 @@ Coming soon.
 <br>• Mountain Empire Community College</p>
 
 <h1 style="color:#009024; font-size:16px;">Work Experience</h1>
+<p>
+<br>
+*Reading Group Leader*, <b>The Blue Ridge Center</b>, Charlottesville, VA<br>
+• Designs and implements group schedule and syllabus including weekly readings and topics<br>
+• Works closely with Blue Ridge staff to coordinate reading group logistics<br>
+• Fosters and moderates in-depth discussions surrounding weekly reading material
+<br>
+</p>
 
 <!-- Live Performance Image -->
 <img src="..\assets/img/scarletfeverone.png" alt="Live Performance" width="600">
-
-<h1 style="color:#A600DA; font-size:16px;">Leadership</h1>
 
 <h1 style="color:#DCC700; font-size:16px;">Skills and Certifications</h1>
 <p>
