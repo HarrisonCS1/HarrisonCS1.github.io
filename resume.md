@@ -10,7 +10,7 @@ Coming soon.
 
 <h1 style="color:#FF6B0B; font-size:16px;">Education</h1>
 <p>
-<b>University of Virginia</b>, College of Arts and Sciences
+<b>University of Virginia</b>, College of Arts and Sciences, '26
 <br>• <b>Major:</b> B.A. Applied Statistics – Data Science Concentration
 <br>• <b>Minor:</b> Real Estate
 <br>• <b>Catalyst Program</b> (what's <a href="https://catalyst.as.virginia.edu">this?</a>)
@@ -29,13 +29,19 @@ Coming soon.
 
 <h1 style="color:#009024; font-size:16px;">Work Experience</h1>
 <p>
-<i>Reading Group Leader</i>, <b>The Blue Ridge Center</b>, Charlottesville, VA<br>
+<i>Reading Group Leader</i>, <b>The Blue Ridge Center</b>, Charlottesville, VA, <i>2025 - Present</i><br>
 • Designs and implements group schedule and syllabus (<a href="..\assets/documents/antifragile_syllabus.pdf">show me</a>) 
   including weekly readings and topics<br>
 • Works closely with Blue Ridge staff to coordinate reading group logistics<br>
 • Fosters and moderates in-depth discussions surrounding weekly reading material
 </p>
-
+<p>
+<i>Keyboardist</i>, <b>Scarlet Fever</b>, Charlottesville, VA, <i>Current</i>2024 - Present<br>
+• Collaborates with and supports other musicians to maintain a shared musical repertoire<br>
+• Engages in regular live performances for audiences at a variety of venues<br>
+• Assists in audio logistics including setup, takedown, and troubleshooting<br>
+• Check out the band 
+</p>
 <!-- Live Performance Image -->
 <img src="..\assets/img/scarletfeverone.png" alt="Live Performance" width="600">
 
