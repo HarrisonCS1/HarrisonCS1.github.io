@@ -22,7 +22,7 @@ Thank you for visiting.
 
 [Music ->](./music.html).
 
-[Miscellaneous ->](./music.html).
+[Miscellaneous ->](./miscellaneous.html).
 
 [Suggested Reading ->](./reading.html).
 
