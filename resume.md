@@ -12,7 +12,7 @@ Coming soon.
 University of Virginia, College of Arts and Sciences
 Major: B.A. Applied Statistics – Data Science Concentration
 Minor: Real Estate
-Catalyst Program (what's this? https://catalyst.as.virginia.edu/program-overview)
+Catalyst Program (what's <a href="https://catalyst.as.virginia.edu">this?</a>
 
 <h1 style="color:#009024; font-size:16px;">Work Experience</h1>
 
