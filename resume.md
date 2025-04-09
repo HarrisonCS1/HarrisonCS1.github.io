@@ -6,7 +6,7 @@ layout: default
 
 Coming soon.
 
-<p>Resume PDF available <a href="..\assets/documents/resume_snedeker_4-25.pdf">here</a>.<br>Some contact information has been redacted for privacy.<br>For full contact information, please reach out to me directly via the contact information provided.</p>
+<p>Resume PDF available <a href="..\assets/documents/resume_snedeker_4-25.pdf">here</a>.<br>Please note that some contact information has been redacted for privacy.<br>For my full contact information, reach out to me directly via the contact information provided.</p>
 
 <h1 style="color:#FF6B0B; font-size:16px;">Education</h1>
 <p><b>University of Virginia</b>, College of Arts and Sciences
