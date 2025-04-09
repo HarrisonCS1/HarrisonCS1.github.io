@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+[back](./)
 
 ## Music
 
@@ -19,7 +20,7 @@ There aren't many people who do this kind of work. If you're one of them, or if 
 
 <h1 style="color:#900000; font-size:16px;">Scarlet Fever Keyboardist</h1>
 
-<img src="..\assets/img/keyboardist_1.png" align="left" alt="Keyboardist">
+<!--<img src="..\assets/img/keyboardist_1.png" align="left" alt="Keyboardist">-->
 
 I'm keyboardist for Charlottesville-based band Scarlet Fever. We play covers of popular songs from the past 50 years for events ranging from house shows and fraternity parites to local bars and university events. If you're interested in booking us or would like to learn more, please reach out and check out the link below.
 
