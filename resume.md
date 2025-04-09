@@ -29,5 +29,11 @@ Coming soon.
 <h1 style="color:#A600DA; font-size:16px;">Leadership</h1>
 
 <h1 style="color:#DCC700; font-size:16px;">Skills and Certifications</h1>
+<p>
+• <B>Adult and Pediatric First Aid/CPR/AED</B>, American Red Cross
+• Working familiarity with SharePoint, Word, Excel, and other Mircrosoft applications
+• General familiarity with ArcGIS, Logic Pro, Python and R
+</p>
+
 
 [back](./)
